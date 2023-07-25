@@ -8,3 +8,6 @@
 
 - Mook data
     - thecocktaildb.com
+
+- iconos
+    - npm i @heroicons/vue
